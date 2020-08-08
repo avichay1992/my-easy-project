@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android2="http://schemas.android.com/apk/res/android">
+
+    <item
+        android2:id="@+id/deleteFList"
+        android2:title="@string/deleat_faorites_list"
+         />
+    <item
+        android2:id="@+id/exitApp"
+        android2:title="@string/exit"
+        />
+</menu >

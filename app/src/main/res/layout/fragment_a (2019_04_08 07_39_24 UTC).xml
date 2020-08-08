@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/searchByLocation"
+        android:layout_width="match_parent"
+        android:background="#a1000000"
+        android:textColor="#c5ffffff"
+        android:layout_height="wrap_content"
+        android:text="@string/search_by_location" />
+
+    <Button
+        android:id="@+id/searchByKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#c6026c00"
+        android:textColor="#c5ffffff"
+        android:text="@string/search_by_key"
+        android:layout_marginBottom="0dp"
+        />
+
+    <ListView
+        android:id="@+id/listLocations"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

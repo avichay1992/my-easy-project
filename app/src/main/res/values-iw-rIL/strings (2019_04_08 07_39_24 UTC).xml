@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אפליקצית המיקומים שלי</string>
+    <string name="search_by_key">חיפוש בטקסט חופשי</string>
+    <string name="search_by_location">חפש קרוב אלי</string>
+    <string name="title_activity_maps">מפה</string>
+    <string name="favorites_list">המיקומים המועדפים עלי</string>
+    <string name="sttings">הגדרות</string>
+    <string name="exit">יציאה!</string>
+    <string name="distance_type">הצג מרחק לפי</string>
+    <string name="delete_favorites_list">מחק את רשימת המועדפים</string>
+    <string name="deleat_faorites_list">מחק את המועדפים</string>
+    <string name="data_cleared">היסטורית החיפושים נמחקה</string>
+    <string name="search_info_cleared">היסטורית החיפושים נמחקה</string>
+    <string name="favorites_list_cleared">היסטוריית המועדפים נמחקה</string>
+    <string name="shared_location">שתף נתונים באמצעות</string>
+    <string name="go_to_main">מסך ראשי</string>
+    <string name="KM">ק"מ</string>
+    <string name="MILES">מייל</string>
+    <string name="delete_result_history">מחק את רשימת החיפושים</string>
+    <string name="share">שתף</string>
+    <string name="add_to_favorites">הוסף למועדפים</string>
+    <string name="cancel">ביטול</string>
+    <string name="added_to_favorites">נוסף למועדפים! =]</string>
+    <string name="option2_add_to_favorites">הוסף למועדפים</string>
+    <string name="search">חיפוש</string>
+    <string name="sKey_title">חפש את שם המקום הרצוי</string>
+    <string name="marker_tel_aviv">תל אביב</string>
+    <string name="search_dialog">הכנס את שם המקום הרצוי באיזור שלי</string>
+    <string name="search_title">חפש קרוב אלי</string>
+    <string name="sKey_dialog_msg">הכנס את שם המקום והאיזור</string>
+    <string name="sKey_search">חיפוש</string>
+    <string name="zero_results_from_json">אין תוצאות!</string>
+    <string name="Network_or_GPS_dc">אין גישה לרשת או למיקום!</string>
+
+</resources>

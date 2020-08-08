@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyEasyApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_by_key">search by key</string>
+    <string name="search_by_location">search by location</string>
+    <string name="favorites_list">Favorites List</string>
+    <string name="sttings">Sttings</string>
+    <string name="exit">Exit!</string>
+    <string name="distance_type">distance type</string>
+    <string name="delete_favorites_list">delete favorites list</string>
+    <string name="deleat_faorites_list">Deleat Faorites List</string>
+    <string name="go_to_main">Go To Main</string>
+    <string name="ShowLocantionBy">Show Locantion By:</string>
+    <string name="choose_your_distance_type">choose your distance type:</string>
+    <string name="KM">KM</string>
+    <string name="MILES">MILES</string>
+    <string name="data_cleared">Data Cleared</string>
+    <string name="favorites_list_cleared">Favorites List Cleared</string>
+    <string name="search_info_cleared">Search Info Cleared</string>
+    <string name="delete_result_history">delete result history</string>
+    <string name="share">Share</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="cancel">cancel</string>
+    <string name="shared_location">you have shared picture and name</string>
+    <string name="added_to_favorites">Edited to favorites!</string>
+    <string name="option1_share">Share</string>
+    <string name="option2_add_to_favorites">Add to favorites</string>
+    <string name="search">Search</string>
+    <string name="search_dialog">Enter Your Message</string>
+    <string name="search_title">Enter Your Title</string>
+    <string name="sKey_dialog_msg">Enter Your Message</string>
+    <string name="sKey_title">Enter Your Title</string>
+    <string name="sKey_search">Search</string>
+    <string name="marker_tel_aviv">You are here</string>
+    <string name="zero_results_from_json">Zero results!</string>
+    <string name="Network_or_GPS_dc">Network or GPS is disconnected</string>
+</resources>
